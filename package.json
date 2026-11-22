@@ -1,0 +1,11 @@
+{
+  "name": "devops-live",
+  "version": "1.0.0",
+  "description": "Demo app for the DevOps in the Real World seminar",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
