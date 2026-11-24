@@ -4,7 +4,7 @@
 const http = require('node:http');
 
 // Change these two lines during the demo.
-const MESAGE = 'Hello, IT students!';
+const MESSAGE = 'Hello, IT students!';
 const COLOR = '#1F6FEB';
 
 // The hosting platform tells us which commit is running (Render sets RENDER_GIT_COMMIT).
